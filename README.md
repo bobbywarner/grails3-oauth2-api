@@ -1,5 +1,12 @@
 # Demo API
 
+This Demo API is meant to serve as a golden sample for Grails 3 with OAuth 2. If
+you have any ideas for improvements or additions, please feel free to fork the
+repo and create a pull request!
+
+There is a screencast that walks through the codebase and explains how everything
+is setup. You can view it here: [http://blog.agileorbit.com/2015/05/11/Grails3-OAuth2.html](http://blog.agileorbit.com/2015/05/11/Grails3-OAuth2.html)
+
 ## Run
 
 Use Gradle:
